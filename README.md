@@ -5,7 +5,8 @@
 <p>Este é um projeto de uma calculadora de empréstimos que permite aos usuários calcular o valor da parcela mensal (EMI), os juros totais e o pagamento total com base no valor do empréstimo, taxa de juros e prazo do empréstimo.</p>
 </div>
 
-![previw](readme-video/preview.png)
+![preview](readme-images/preview.jpg)
+![preview-result](readme-images/preview-result.jpg)
 
 👨🏼‍💻 <b>Tecnologias utilizadas:</b>
 
